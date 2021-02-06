@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name SeniorDesign_Block2_ADC)(type KiCad)(uri ${KIPRJMOD}/SeniorDesign_Block2_ADC.pretty)(options "")(descr ""))
+)
