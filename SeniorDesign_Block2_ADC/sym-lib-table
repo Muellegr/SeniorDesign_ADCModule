@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name SeniorDesign_Block2_ADC)(type Legacy)(uri ${KIPRJMOD}/SeniorDesign_Block2_ADC.lib)(options "")(descr ""))
+)
