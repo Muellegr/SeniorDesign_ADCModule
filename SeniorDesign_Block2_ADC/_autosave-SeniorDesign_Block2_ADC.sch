@@ -1127,10 +1127,10 @@ conn_gnd
 Text GLabel 1750 5050 0    50   Input ~ 0
 conn_gnd
 $Comp
-L Connector_Generic:Conn_01x01 J?
+L Connector_Generic:Conn_01x01 J13
 U 1 1 602CBBD8
 P 1550 4950
-F 0 "J?" H 1468 4725 50  0000 C CNN
+F 0 "J13" H 1468 4725 50  0000 C CNN
 F 1 "Conn_01x01" H 1468 4816 50  0000 C CNN
 F 2 "Connector_PinHeader_2.54mm:PinHeader_1x01_P2.54mm_Vertical" H 1550 4950 50  0001 C CNN
 F 3 "~" H 1550 4950 50  0001 C CNN
